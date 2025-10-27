@@ -1,6 +1,6 @@
 # ELF
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-blue)](./CODE_OF_CONDUCT.md)
-[![License](https://img.shields.io/github/license/YourName/YourRepo)](./LICENSE.md)
+[![License](https://img.shields.io/github/license/dnd/dontusethissystem-arch)](./LICENSE.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
 A compact, focused repository for working with ELF (Executable and Linkable Format) binaries — tooling, libraries, examples, and utilities for inspecting, parsing, and manipulating ELF files.

@@ -69,55 +69,6 @@ If this repository hosts a library, the library exposes an API for reading/parsi
   console.log(elf.headers);
   for (const sym of elf.symbols) console.log(sym.name, sym.addr);
 
-Replace the above with the real API calls for the language used in this repo.
-
-## Building from source
-
-The project may be implemented in one of several languages. Use the section that applies and update TODOs.
-
-- Generic prerequisites
-  - Git
-  - A compiler or runtime for the project's language (C/C++, Rust, Go, Python, etc.)
-  - Make/CMake or the language's build tool
-
-- C / C++
-  - Requirements: gcc/clang, make, cmake (if applicable)
-  - Build:
-    mkdir -p build && cd build
-    cmake ..
-    make
-    # Binary output will be in build/bin or similar
-
-- Go
-  - Requirements: Go 1.18+
-  - Build:
-    go build -o bin/elftool ./cmd/elftool
-
-- Rust
-  - Requirements: rustup + cargo
-  - Build:
-    cargo build --release
-    # Binary in target/release/
-
-- Python
-  - Requirements: Python 3.8+
-  - Install:
-    pip install -r requirements.txt
-  - Run examples:
-    python examples/inspect.py /path/to/binary
-
-If this repository uses a different build system, replace the above instructions with the correct commands.
-
-## Tests
-
-- Run unit tests (adapt to language)
-  - C/C++: run tests in build/ or use make test
-  - Go: go test ./...
-  - Rust: cargo test
-  - Python: pytest
-
-Add or update test commands to reflect the actual test framework present in the repo.
-
 ## Contributing
 
 Contributions are welcome.

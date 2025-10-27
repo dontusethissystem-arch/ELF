@@ -1,7 +1,7 @@
 # ELF
 
 [![Build Status](https://img.shields.io/badge/build-unknown-lightgrey.svg)](https://github.com/dontusethissystem-arch/ELF/actions)
-[![License](https://img.shields.io/badge/license-SEE_LICENSE-lightgrey.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/license-SEE_LICENSE-lightgrey.svg)](./LICENSE.md)
 
 A compact, focused repository for working with ELF (Executable and Linkable Format) binaries — tooling, libraries, examples, and utilities for inspecting, parsing, and manipulating ELF files.
 

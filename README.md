@@ -82,10 +82,6 @@ Contributions are welcome.
 
 Please follow the repository's code style and include tests where applicable. If there's a CONTRIBUTING.md in this repository, follow that instead.
 
-## Code of Conduct
-
-This project follows a standard code of conduct. Be respectful, and open a discussion or issue if you encounter problems. Add or link a CODE_OF_CONDUCT.md in the repo if one exists.
-
 ## Contact / Maintainers
 
 Maintained by dontusethissystem-arch (https://github.com/dontusethissystem-arch). Open issues for bugs, feature requests, or help.

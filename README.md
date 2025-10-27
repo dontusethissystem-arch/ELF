@@ -87,10 +87,6 @@ Please follow the repository's code style and include tests where applicable. If
 
 This project follows a standard code of conduct. Be respectful, and open a discussion or issue if you encounter problems. Add or link a CODE_OF_CONDUCT.md in the repo if one exists.
 
-## License
-
-See LICENSE in the repository root for license terms. If no license file exists, default to "All rights reserved" — add a permissive license (MIT/Apache/BSD) if you intend to allow reuse.
-
 ## Contact / Maintainers
 
 Maintained by dontusethissystem-arch (https://github.com/dontusethissystem-arch). Open issues for bugs, feature requests, or help.
